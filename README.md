@@ -11,6 +11,8 @@ swapping important question word for
 2) for word vector that is close in embedding space.
 We estimate importance of words in asked questions with Locally Interpretable Model Agnostic Explanations method (LIME). 
 
+![Schema of Robustness Validation Framework](img/workshop_framework_2.png)
+
 More details can be found in the paper accepted to NIPS IRASL workshop https://openreview.net/pdf?id=SJlgRqjssQ 
 
 *This framework is in progress and will be updated.*
