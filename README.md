@@ -9,6 +9,7 @@ swapping important question word for
 
 1) its semantically correct synonym and
 2) for word vector that is close in embedding space.
+
 We estimate importance of words in asked questions with Locally Interpretable Model Agnostic Explanations method (LIME). 
 
 ![Schema of Robustness Validation Framework](img/workshop_framework_2.png)
