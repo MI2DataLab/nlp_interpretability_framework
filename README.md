@@ -4,8 +4,8 @@ This repository contains dataset for robustness validation of machine comprehens
 It was created with WordNet synonyms embedded with ELMo and manually corrected by annotators.
 
 **A robust model should be robust to changes in input that do not alter its semantics.**
-We test this property of 3 popular models: DrQA, BiDAF and QANet by manipulating questions in two ways:
-swapping important question word for
+We test this property of 3 popular models: DrQA, BiDAF and QANet by manipulating questions in two ways-
+swapping important question word for:
 
 1) its semantically correct synonym and
 2) for word vector that is close in embedding space.
