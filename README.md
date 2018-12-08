@@ -14,7 +14,7 @@ We estimate importance of words in asked questions with Locally Interpretable Mo
 
 ![Schema of Robustness Validation Framework](img/workshop_framework_2.png)
 
-More details can be found in the paper accepted to NIPS IRASL workshop https://openreview.net/pdf?id=SJlgRqjssQ 
+More details can be found in the paper accepted to NIPS IRASL workshop https://arxiv.org/abs/1812.02205
 
 *This framework is in progress and will be updated.*
 
